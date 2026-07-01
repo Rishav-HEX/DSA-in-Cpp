@@ -1,0 +1,292 @@
+Basic Mathematics Algorithms
+
+1. Prime Numbers
+2. Prime Number between Two numbers
+3. Sieve of Eratosthenes (It's an algorithm to find prime numbers starting from 1 to nth number)
+4. Greatest Common Divisor and Least Common multiple
+5. Euclid's Algorithm
+6. Exponentiation
+7. Permutation and Combination
+8. Check Palindrome Numbers and Armstrong Number
+
+
+Bit Manipulation
+
+1. Bitwise Operators
+2. Set/Clear/Toggle Bits
+3. Power of two
+4. XOR properties
+5. Subset Generation
+6. Bit Tricks
+
+Recursion 
+
+1. Base Case / Base Condition
+2. Recursive Tree
+3. Tail Recursion
+4. Backtracking Foundation
+
+Arrays
+
+1. Traversal
+2. Insertion
+3. Deletion
+4. Rotation
+5. Prefix Sum
+6. Difference Array
+7. Kadane Algorithm
+8. Majority Element
+9. Merge Intervals
+10. Two Sum
+11. Three Sum
+12. Sliding Window
+13. Two Pointers
+
+Strings
+
+1. String Operation
+2. Palindrome
+3. Anagrams
+4. Pattern Matching
+5. Rabin Karp
+6. KMP Algorithm
+7. Z algorithm
+8. Rolling Hash
+9. String Hashing
+10. Trie Based Search
+
+Linked Lists
+
+1. Singly Linked Lists
+2. Doubly Linked Lists
+3. Circular Linked Lists
+4. Reverse Linked Lists
+5. Cycle Detection
+6. Merge Lists
+7. Intersection
+8. LRU cache
+
+Stack
+
+1. Array Stack
+2. Linked Stack
+3. Infix / Postfix / Prefix
+4. Balanced Parentheses
+5. Monotonic Stack
+6. Next Greater Element
+7. Largest Rectangle in Histogram
+
+Queue
+
+1. Simple Queue
+2. Circular Queue
+3. Deque
+4. Priority Queue
+5. Monotonic Queue
+
+Trees
+
+1. Binary Tree
+2. Full Binary Tree
+3. Complete Binary Tree
+4. Perfect Binary Tree
+
+Traversals
+
+1. Inorder
+2. Preorder
+3. Postorder
+4. Level Order
+     +Concepts
+	- Height
+	- Diameter
+	- Width
+	+ Views
+	  - Left View
+	  - Right View
+	  - Top View
+	  - Bottom View
+5. Lowest Common Ancestor (LCA)
+6. Tree Construction
+7. Tree Serialization
+
+Binary Search Tree (BST)
+1. Search
+2. Insert
+3. Delete
+4. Validate BST
+5. Kth Smallest
+6. Floor & Ceil
+7. BST Iterator
+
+Binary Search
+
+1. Basic Binary Search
+2. Lower Bound
+3. Upper Bound
+4. First / Last Occurrence
+5. Search on Answer
+6. Binary Search on Matrix
+7. Rotated Array Search
+
+Heap / Priority Queue
+
+1. Min Heap
+2. Max Heap
+3. Heapify
+4. Heap Sort
+5. K Largest Elements
+6. Merge K Sorted Lists
+7. Median in Stream
+
+Hashing
+
+1. Hash Map
+2. Hash Set
+3. Frequency Counting
+4. Collision Handling
+5. Hash Functions
+
+Graphs
+
+1.  Graph Representation
+2.  BFS
+3.  DFS
+4.  Connected Components
+5.  Cycle Detection
+6.  Topological Sort
+7.  Bipartite Graph
+8.  Shortest Path
+9.  Dijkstra’s Algorithm
+10. Bellman-Ford Algorithm
+11. Floyd Warshall Algorithm
+12. Prim’s Algorithm
+13. Kruskal’s Algorithm
+14. Bridges
+15. Articulation Points
+16. Strongly Connected Components
+17. Euler Path
+18. Hamiltonian Path
+
+DSU
+
+1.  Union Find
+2.  Path Compression
+3.  Union by Rank
+4.  Connected Components
+
+Greedy Algorithms
+
+1.  Activity Selection
+2.  Fractional Knapsack
+3.  Huffman Coding
+4.  Job Sequencing
+5.  Interval Scheduling
+
+Backtracking
+
+1.  Subsets
+2.  Permutations
+3.  Combinations
+4.  N-Queens
+5.  Sudoku Solver
+6.  Rat in a Maze
+7.  Word Search
+
+Dynamic Programming
+
+1.  Fibonacci
+2.  Climbing Stairs
+3.  House Robber
+4.  0/1 Knapsack
+5.  Unbounded Knapsack
+6.  Longest Common Subsequence (LCS)
+7.  Longest Common Substring
+8.  Edit Distance
+9.  Longest Increasing Subsequence
+10. Bitonic Sequence
+11. Unique Paths
+12. Minimum Path Sum
+13. Matrix Chain Multiplication
+14. Burst Balloons
+15. DP on Trees
+16. Traveling Salesman Problem (TSP)
+
+Trie
+
+1.  Insert
+2.  Search
+3.  Delete
+4.  Prefix Search
+5.  Auto Complete
+6.  Word Dictionary
+
+Segment Tree
+
+1.  Build Segment Tree
+2.  Range Sum Query
+3.  Range Minimum Query
+4.  Lazy Propagation
+
+Fenwick Tree (BIT)
+
+1.  Prefix Sum Query
+2.  Range Update
+
+Sparse Table
+
+1.  Range Minimum Query
+2.  Static Queries
+
+Advanced Graph Algorithms
+
+1.  Network Flow
+2.  Maximum Flow
+3.  Ford-Fulkerson
+4.  Edmonds-Karp
+5.  Dinic’s Algorithm
+6.  Minimum Cost Flow
+
+Advanced Data Structures
+
+1.  Ordered Set
+2.  Ordered Map
+3.  PBDS
+4.  Treap
+5.  AVL Tree
+6.  Red Black Tree
+7.  B-Tree
+8.  Splay Tree
+9.  Meet in the Middle
+10. Mo’s Algorithm
+11. Square Root Decomposition
+12. Heavy Light Decomposition
+13. Centroid Decomposition
+14. Binary Lifting
+15. Euler Tour Technique
+16. Convex Hull Trick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
