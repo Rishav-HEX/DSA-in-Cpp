@@ -16,3 +16,5 @@ int main(){
 /*Output
 5 4 3 2 1
 */
+
+//This Type of recursion is called as Tail Recursion because the recursive Fuction is Present at last and no Further Operation is There.

@@ -24,7 +24,9 @@ Recursion
 1. Base Case / Base Condition
 2. Recursive Tree
 3. Tail Recursion
-4. Backtracking Foundation
+4. Linear Recursion
+5. Head vs Tail vs Linear Recursion
+6. Backtracking Foundation
 
 Arrays
 

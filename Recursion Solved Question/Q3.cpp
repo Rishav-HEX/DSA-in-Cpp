@@ -17,3 +17,5 @@ using namespace std;
  /*Output
   1 2 1
  */
+
+// This Recursion is also called as Tree Recursion because in this recursion function is calling itself more than one time.

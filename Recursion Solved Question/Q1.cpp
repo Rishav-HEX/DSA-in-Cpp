@@ -17,3 +17,5 @@ int main(){
 /*Output
 1 2 3 4 5 
 */
+
+// This Type of Recursion is called as Head Recursion because the Recursive Function is Present at First and Further Operation is Present After That.
