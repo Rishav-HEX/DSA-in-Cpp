@@ -1,4 +1,6 @@
 /*
+Q. Print the Subsets of {1,2,} using Recursion.
+
 So Basically Back Tracking me hota ye hai ki Hum Har Node Par Decision Lete hai, Agar Relevent laga toh Accept ya Fir Back jaake Again Decision lena padega. 
 
 Ab Agar maan lo Hume ek Set Diya hua hai eg:- {1,2} Toh Iske Subsets Print karne hai toh simply hum sabse phele ek Null Set banayenge aur usme Element Push karenge aur Check karenge ki Ye Jo New set Hoga Wo Kya Required output hai ya nahi. Agar hai toh toh lega nahi toh Nahi Lega/ Push karega. Toh isme ek Tree Banti hai,
@@ -23,9 +25,14 @@ using namespace std;
 
 void Solve(vector <int>& ds , vector <int>& arr , int index){
     if (index == arr.size()){
-        for(auto x : ds){
-            cout << "{" << x << "}" << " , " ;
+        cout << "{ ";
+
+        for(auto x : ds)
+        {
+            cout << x << " ";
         }
+
+            cout << "}" << endl;
         return ;
     }
 //yes to Take Element From the arr
@@ -36,4 +43,12 @@ Solve(ds , arr , index+1);
 ds.pop_back();
 // Not Take
 Solve(ds , arr , index+1);
+}
+
+int main(){
+    
+    vector <int> arr = {1,2,3};
+    vector <int> ds;
+    int index = 0;
+    Solve(ds , arr , index);
 }
