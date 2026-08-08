@@ -14,7 +14,7 @@ int main()
 
     unordered_map<int,int> mp;
 
-    mp[0] = -1;
+    mp[0] = -1; // This is done for the case when the 0th index is the starting index of the subarray whose sum = K. For example, if arr = {8, 1, 2} and K = 8 then we can say that the subarray starts from index 0 and ends at index 0. So we need to store the prefix sum of 0 at index -1.
 
     int prefix = 0;
 
