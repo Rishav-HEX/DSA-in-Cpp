@@ -1,6 +1,6 @@
 /** What is Kadane's Algorithm?
  * Kadane's Algorithm is an efficient method to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers. It operates in linear time O(n) and uses a dynamic programming approach to keep track of the maximum sum found so far and the current sum of the subarray being considered. The algorithm iterates through the array, updating the current sum and the maximum sum as it goes, ensuring that it captures the largest possible sum of any contiguous subarray.
- */
+
 // Code for Printing all the possible Subarrays of an Array
 
 #include <iostream>
@@ -20,19 +20,27 @@ int main(){
     }
 return 0;    
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
+/*
+Maximum Subaaray Subarray Sum Using Brute Force Approach
+*/
+#include <iostream>
+using namespace std;
+int main(){
+    int n = 7 ;
+    int arr[] = {3 , -4 , 5 , 4 , -1 , 7 , -8};
+    int maxSum = 0;
+    for (int st = 0; st < n; st++){
+        int currentSum = 0 ;
+        for (int end = st; end < n; end++){
+            currentSum += arr[end];
+            maxSum = max(currentSum , maxSum) ;
+        }
+    
+    }
+cout << maxSum ;
+    return 0;
+}
 
 
 
