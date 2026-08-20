@@ -6,6 +6,7 @@
 
 #include <iostream>
 using namespace std;
+/*
 int main(){
     int n =5 ;
     int arr[] = {1 ,2 ,3,4,5} ;
@@ -21,10 +22,12 @@ int main(){
     }
 return 0;    
 }
+*/
 
 /*
 Maximum Subaaray Subarray Sum Using Brute Force Approach
 */
+/*
 #include <iostream>
 using namespace std;
 int main(){
@@ -42,6 +45,7 @@ int main(){
 cout << maxSum ;
     return 0;
 }
+*/
 
 
 
@@ -67,5 +71,5 @@ int main()
     cout << "Maximum sum of contiguous subarray is: " << max_sum << endl;
 
     return 0;
-}*/
+}
 
