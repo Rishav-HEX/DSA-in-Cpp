@@ -149,7 +149,7 @@ Hashing
 4. Collision Handling
 5. Hash Functions
 
-Graphs
+Graphs //Imp
 
 1.  Graph Representation
 2.  BFS
@@ -195,7 +195,7 @@ Backtracking
 6.  Rat in a Maze
 7.  Word Search
 
-Dynamic Programming
+Dynamic Programming //IMP
 
 1.  Fibonacci
 2.  Climbing Stairs
@@ -267,28 +267,3 @@ Advanced Data Structures
 14. Binary Lifting
 15. Euler Tour Technique
 16. Convex Hull Trick
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
