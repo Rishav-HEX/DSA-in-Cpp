@@ -99,7 +99,7 @@ Traversals
 2. Preorder
 3. Postorder
 4. Level Order
-     +Concepts
+    +Concepts
 	- Height
 	- Diameter
 	- Width
