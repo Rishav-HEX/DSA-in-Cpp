@@ -6,6 +6,7 @@ using namespace std;
     for(int i = 0 ; i < nums.size() ; i++){// a + b + c = target
         int tar = -nums[i]; // now here target is -a now we have to find b and c
         set<int> s;;
+        vector<vector<int>> ans;
         
         for(int j = i+1 ; j < nums.size() ; j++ ){
             int c = tar - nums[j];
@@ -17,4 +18,6 @@ using namespace std;
             s.insert(nums[j]);
         }
     }
+    vector<vector<int>> ans(unique);
+    return ans;
  }
