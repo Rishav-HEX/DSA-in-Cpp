@@ -10,7 +10,7 @@ using namespace std;
         
         for(int j = i+1 ; j < nums.size() ; j++ ){
             int c = tar - nums[j];
-            if(s.find(tofind) != s.end()){
+            if(s.find(c) != s.end()){
                 vector<int> trip = {nums[i] , nums[j] , c};
                 sort(trip.begin() , trip.end());
                 uniqueTriplets.insert(trip);
