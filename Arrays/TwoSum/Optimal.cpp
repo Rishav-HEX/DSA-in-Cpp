@@ -6,6 +6,7 @@ vector <int> TwoSum(vector <int>& nums , int target){
     int i=0;
     int n = nums.size();
     int j = nums[n];
+    nums.sort();
     while(i < j){
         if(nums[i] + nums[j] == target){
             cout<< i << j << endl();
